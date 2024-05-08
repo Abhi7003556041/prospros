@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "441014505030",
+    "project_id": "go-pros-app",
+    "storage_bucket": "go-pros-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441014505030:android:84cf3a293e8c1e4e344447",
+        "android_client_info": {
+          "package_name": "com.gopros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441014505030-ddvav3ck4svtesn863khmieefihs7kfg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gopros",
+            "certificate_hash": "d62ff4677b716c6885a23c9cc6aecae4b3cda0cd"
+          }
+        },
+        {
+          "client_id": "441014505030-j4am2d7rd0atj9a600flftuol360o4dm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr-naUnkf1E4VYHh4NYzgNxZCEqs4o5EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441014505030-j4am2d7rd0atj9a600flftuol360o4dm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "441014505030-4darahl8ugivflogv3om2sju3qe7gehi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gopros"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
